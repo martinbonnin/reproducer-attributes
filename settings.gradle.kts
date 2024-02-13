@@ -6,3 +6,5 @@ pluginManagement {
     }
   }
 }
+
+include(":gradle-plugin", ":annotations")
